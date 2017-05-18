@@ -143,6 +143,12 @@
     .hljs-meta {
         color: #7F7F7F !important;
     }
+ 
+    .flex-tab input:focus,
+    .flex-tab select:focus,
+    .flex-tab textarea:focus {
+        border-color: #888889;
+    }
     ```
 
 <br>
