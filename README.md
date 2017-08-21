@@ -1,11 +1,11 @@
-# Blackbort-RocketChat
-> Custom theme for Rocket Chat
+# Rocket.Chat Theme - Blackbort
+> Custom theme for Rocket.Chat
 
 <br>
 
 ## Visual
 
-![Capture Blackbort RocketChat theme](capture-blackbort-rocketchat-theme.jpg "Capture Blackbort RocketChat theme")
+![Capture Rocket.Chat Theme - Blackbort](capture-rocket.chat-theme-blackbort.jpg "Capture Rocket.Chat Theme - Blackbort")
 
 <br>
 
