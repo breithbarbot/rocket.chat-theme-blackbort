@@ -1,17 +1,14 @@
 # Rocket.Chat Theme - Blackbort
-
 > Custom theme for Rocket.Chat
 
 <br>
 
 ## Visual
-
 ![Capture Rocket.Chat Theme - Blackbort](capture-rocket.chat-theme-blackbort.jpg "Capture Rocket.Chat Theme - Blackbort")
 
 <br>
 
 ## Usage
-
 1. Administration > Layout > Color :
     - Content Background Color : **#2A2A2A** | **color**
     - Primary Background Color : **#242425** | **color**
@@ -26,10 +23,7 @@
     - Error Color : **#870D0D** | **color**
     - Selection Color : **#0D4987** | **color**
     - theme-color-attention-color : **#9C27B0** | **color**
-
-<br>
-
-2. Administration > Layout > Custom CSS :
+1. Administration > Layout > Custom CSS :
     ```css
     * {
         border-radius: 0 !important;
@@ -151,11 +145,9 @@
         border-color: #888889;
     }
     ```
+1. Enjoy!
 
 <br>
 
-Enjoy!
-
 ## License
-
 [MIT](LICENSE)
